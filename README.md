@@ -6,7 +6,6 @@
 <h1> 🧠 About Me </h1>
 <p>I'm Rana Sen, a Cyber Security Enthusiast, Ethical Hacker, and Penetration Tester.
 I specialize in breaking things to make them unbreakable and in identifying and exploiting vulnerabilities in systems, networks, and applications to strengthen security defenses. My work focuses on ethical hacking, uncovering weaknesses before malicious actors can, using a combination of manual testing, automated tools, and custom scripts to perform advanced penetration testing across web applications, networks, and infrastructure.</p>
-
 <h2>💻 Areas of Expertise:</h2>
 <p>Web Application Pentesting</p>
 <p>Network Penetration Testing</p>
@@ -14,17 +13,14 @@ I specialize in breaking things to make them unbreakable and in identifying and 
 <p>Vulnerability Assessment & Exploit Development</p>
 <p>Automation Bash Script Development</p>
 <p>Red Team & OSINT Operations</p>
-
 <p align="center">
 <img src="https://github.com/ranasen-rat/ranasen-rat/blob/main/red-teamer.png" width="900">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,docker" />
 </p>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu&logoColor=white">
@@ -44,7 +40,6 @@ I specialize in breaking things to make them unbreakable and in identifying and 
 <img src="https://img.shields.io/badge/JohnTheRipper-grey?style=for-the-badge">
 
 </p>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
@@ -56,15 +51,14 @@ I specialize in breaking things to make them unbreakable and in identifying and 
 <img src="https://img.shields.io/badge/Windows_Security-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 </p>
-
+<h1>🕷️Bug Bounty & Pentesting Platforms:</h1>
 <p align="center">
 
-<!-- Bug Bounty & Pentesting Platforms -->
+
 <img src="https://img.shields.io/badge/Bugcrowd-212121?style=for-the-badge&logo=bugcrowd&logoColor=white" title="Bugcrowd"/>
 <img src="https://img.shields.io/badge/HackerOne-FA2C54?style=for-the-badge&logo=hackerone&logoColor=white" title="HackerOne"/>
 <img src="https://img.shields.io/badge/YesWeHack-0078D7?style=for-the-badge&logoColor=white" title="YesWeHack"/>
 <img src="https://img.shields.io/badge/Intigriti-16161A?style=for-the-badge&logoColor=white" title="Intigriti"/>
-
 </p>
 
 <div align="center">
