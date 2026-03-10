@@ -16,7 +16,7 @@ I specialize in breaking things to make them unbreakable and in identifying and 
 <p>Red Team & OSINT Operations</p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="900">
+<img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://github.com/ranasen-rat/ranasen-rat/blob/main/red-teamer.png)" width="900">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
