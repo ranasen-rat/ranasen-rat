@@ -16,7 +16,7 @@ I specialize in breaking things to make them unbreakable and in identifying and 
 <p align="center">
 <img src="https://github.com/ranasen-rat/ranasen-rat/blob/main/red-teamer.png" width="900">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,docker" />
