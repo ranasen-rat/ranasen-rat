@@ -6,6 +6,9 @@
 <h1> 🧠 About Me </h1>
 <p>I'm Rana Sen, a Cyber Security Enthusiast, Ethical Hacker, and Penetration Tester.
 I specialize in breaking things to make them unbreakable and in identifying and exploiting vulnerabilities in systems, networks, and applications to strengthen security defenses. My work focuses on ethical hacking, uncovering weaknesses before malicious actors can, using a combination of manual testing, automated tools, and custom scripts to perform advanced penetration testing across web applications, networks, and infrastructure.</p>
+<p align="center">
+<img src="https://github.com/ranasen-rat/ranasen-rat/blob/main/red-teamer.png" width="900">
+</p>
 <h2>💻 Areas of Expertise:</h2>
 <p>Web Application Pentesting</p>
 <p>Network Penetration Testing</p>
@@ -13,9 +16,6 @@ I specialize in breaking things to make them unbreakable and in identifying and 
 <p>Vulnerability Assessment & Exploit Development</p>
 <p>Automation Bash Script Development</p>
 <p>Red Team & OSINT Operations</p>
-<p align="center">
-<img src="https://github.com/ranasen-rat/ranasen-rat/blob/main/red-teamer.png" width="900">
-</p>
 <h1 align="left">🌐 Languages and Tools:</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
